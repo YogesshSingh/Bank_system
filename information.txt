@@ -1,0 +1,11 @@
+Admin Credentials
+username :- admin
+passowrd :- admin
+
+User 
+username :- Yogesh 
+password :- admin
+
+user 2 
+username :- user
+password :- admin
